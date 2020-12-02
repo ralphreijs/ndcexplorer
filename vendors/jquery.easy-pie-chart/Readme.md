@@ -26,7 +26,7 @@
 
 
 
-## Get started
+## Get started 
 #### Installation
 
 You can also use [bower](http://bower.io) to install the component:
